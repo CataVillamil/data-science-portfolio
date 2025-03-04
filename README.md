@@ -7,7 +7,12 @@ Welcome to my portfolio! Here, you'll find projects showcasing my skills in Data
   - Deep Learning
   - Kaggle Competitions  
   - End-to-End ML Projects  
-  - Machine Learning 
+  - Machine Learning
+    - Binary Prediction Models
+    - Classification
+    - Clustering
+    - Regression Prediction
+    - Time Series Forecasting
   
 - **Data Analytics**  
   - SQL Queries  
