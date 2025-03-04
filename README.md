@@ -3,12 +3,12 @@
 Welcome to my portfolio! Here, you'll find projects showcasing my skills in Data Science, Machine Learning, and Data Analytics.  
 
 ## 📂 Portfolio Structure  
-- **Data Science**  
+- **Data Science**
+  - Deep Learning
   - Kaggle Competitions  
   - End-to-End ML Projects  
-  - Time Series Forecasting  
-  - Deep Learning  
-
+  - Machine Learning 
+  
 - **Data Analytics**  
   - SQL Queries  
   - Dashboards & Visualizations  
