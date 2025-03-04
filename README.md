@@ -17,6 +17,6 @@ Welcome to my portfolio! Here, you'll find projects showcasing my skills in Data
 - **Resources & Templates** *(Reusable scripts, guides, and coding templates)*  
 
 ## 🔗 Connect with Me  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/catalina-villamil)  
-- **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/catalinavillamil)  
-- **GitHub**: [Your GitHub](https://github.com/CataVillamil)  
+- **LinkedIn**: [catalina-villamil](https://www.linkedin.com/in/catalina-villamil)  
+- **Kaggle**: [catalinavillamil](https://www.kaggle.com/catalinavillamil)  
+- **GitHub**: [CataVillamil](https://github.com/CataVillamil)  
