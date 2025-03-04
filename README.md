@@ -5,7 +5,8 @@ Welcome to my portfolio! Here, you'll find projects showcasing my skills in Data
 ## 📂 Portfolio Structure  
 - **Data Science**
   - Deep Learning
-  - Kaggle Competitions  
+  - Kaggle Competitions
+    - Titanic_Survival_Prediction
   - End-to-End ML Projects  
   - Machine Learning
     - Binary Prediction Models
